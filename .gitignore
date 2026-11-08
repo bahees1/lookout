@@ -1,0 +1,17 @@
+# oython virtual environments
+.venv/
+venv/
+
+# oython cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# environment variables
+.env
+.env.*
+
+#downloaded MediaPipe models
+*.task
